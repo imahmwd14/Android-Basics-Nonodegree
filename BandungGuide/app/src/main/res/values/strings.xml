@@ -1,0 +1,59 @@
+<resources>
+    <string name="app_name">BandungGuide</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="municiple_flag">municiple Flag</string>
+    <string name="bandung_introduction">Bandung is Indonesia\'s third-largest city but lies close enough to Jakarta and offers cooler weather. Bandung features a large collection of Dutch Colonial architecture, as well as a beautiful botanic garden, zoo, golf courses and a wide variety of culinary offerings.</string>
+    <string name="bandung">Bandung</string>
+    <string name="bandung_location">West Java, Indonesia</string>
+
+    <!--Architectural Buildings-->
+    <string name="architectural_1_name">Bandung Grand Mosque</string>
+    <string name="architectural_1_location">Jl. Asia-Afrika, Bandung 40251, Indonesia</string>
+    <string name="architectural_2_name">Gedung Sate</string>
+    <string name="architectural_2_location">Jl. Diponogoro no. 22, Bandung 40115, Indonesia</string>
+
+    <!--Hotels-->
+    <string name="hotel_1_name">Padma Hotel Bandung</string>
+    <string name="hotel_1_location">Jl. Ranca Bentang no. 56–58 | Ciumbuleuit, Cidadap, Bandung 40142, Indonesia</string>
+    <string name="hotel_1_rating">4.5/5</string>
+    <string name="hotel_1_phone_number">(0622) 22030333</string>
+    <string name="hotel_1_sevices">Free Wifi, Free Parking, Breakfast included, Air Conditioning, Pool</string>
+    <string name="hotel_2_name">The Trans Luxury Hotel Bandung</string>
+    <string name="hotel_2_location">Jl. Jenderal Gatot Subroto no. 289, Bandung 40273, Indonesia</string>
+    <string name="hotel_2_rating">4/5</string>
+    <string name="hotel_2_phone_number">(0622) 87348888</string>
+    <string name="hotel_2_sevices">Free Wifi, Free Parking, Breakfast included, Air Conditioning, Pool</string>
+    <string name="hotel_3_name">Holiday Inn Bandung Pasteur</string>
+    <string name="hotel_3_location">Jl. Dr Djunjunan 96 Pasteur, Bandung 40162, Indonesia</string>
+    <string name="hotel_3_rating">4.5/5</string>
+    <string name="hotel_3_phone_number">+1 877-859-5095</string>
+    <string name="hotel_3_sevices">Free Wifi,Free Parking, Breakfast included, Air Conditioning, Pool</string>
+
+    <!--Parks-->
+    <string name="park_1_name">Balai Kota Bandung</string>
+    <string name="park_1_location">Jl. Wastukencana no. 2 | Babakan Ciamis, Sumur Bandung, Bandung 40117, Indonesia</string>
+    <string name="park_2_name">Peta Park</string>
+    <string name="park_2_location">Jl. Peta, Bandung, Indonesia</string>
+
+    <!--Restaurants-->
+    <string name="restaurant_1_name">Hummingbird Eatery</string>
+    <string name="restaurant_1_location">Jl. Progo 14, Bandung 40115, Indonesia</string>
+    <string name="restaurant_1_phone_number">+62 22 4212582</string>
+
+    <string name="restaurant_2_name">The Restaurant - Padma Hotel</string>
+    <string name="restaurant_2_location">Jl. Ranca Bentang no. 56–58 | Padma Hotel Bandung, Bandung 40142, Indonesia</string>
+    <string name="restaurant_2_phone_number">+62 22 2030333</string>
+
+    <string name="restaurant_3_name">The Restaurant at The Trans Luxury Hotel</string>
+    <string name="restaurant_3_location">Gatot Subroto 289 | The Trans Luxury Hotel –3 rd Floor, Bandung 40273, Indonesia</string>
+    <string name="restaurant_3_phone_number">+62 22 87348888</string>
+    <string name="about_bandung">About Bandung</string>
+    <string name="hotels">Hotels</string>
+    <string name="restaurants">Restaurants</string>
+    <string name="parks">Parks</string>
+    <string name="architecturalbuildings">ArchitecturalBuildings</string>
+</resources>
